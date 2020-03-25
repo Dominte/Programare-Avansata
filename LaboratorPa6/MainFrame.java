@@ -7,7 +7,7 @@ public class MainFrame extends JFrame {
     DrawingPanel canvas;
 
     public MainFrame() {
-        super("My Drawing Application");
+        super("Van Gogh's canvas");
         init();
     }
 
